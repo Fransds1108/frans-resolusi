@@ -6,3 +6,4 @@ FRANS PLAN
 - Belajar Git/GitHUB
 - Hafal Shortcurt VScode
 - Belajar Laravel, CodeIgniter, dan Framework lain
+- Membuat Projek Website
